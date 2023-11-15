@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-MAINTAINER John Doe <johndoe@example.com>
+MAINTAINER nathanrprof42@gmail.com
 
 RUN apt-get update && apt-get install -y nginx
 
