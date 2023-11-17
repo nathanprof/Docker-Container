@@ -1,0 +1,3 @@
+FROM ubuntu
+MAINTAINER nathanprof42@gmail.com
+CMD ["echo", "hello world"]
