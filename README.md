@@ -1,6 +1,6 @@
 # Docker-Container
 Creating Docker Container images using VMware Workstation running Ubuntu Linux 23.04
-# Setting up Docker apt Repository in ubuntu Linux
+# Setting up Docker Repository in ubuntu Linux
 ## Add Docker's official GPG key:
 sudo apt-get update
 sudo apt-get install ca-certificates curl gnupg
